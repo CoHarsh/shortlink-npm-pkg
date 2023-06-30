@@ -31,10 +31,6 @@
   },
   "homepage": "https://github.com/CoHarsh/shortlink-npm-pkg#readme",
   "dependencies": {
-    "crypto": "^1.0.1",
-    "dotenv": "^16.3.1",
-    "mongodb": "^5.6.0",
-    "mongoose": "^7.3.1"
   },
   "devDependencies": {
     "jest": "^29.5.0"
